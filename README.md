@@ -1,6 +1,6 @@
 # Eron Maciel
 
-Junior developer from Brazil. Looking for my first job as a developer, remote, with a team abroad.
+Junior developer from Brazil. Looking for my first job as a developer. Remote only — I work well with teams anywhere, including abroad.
 
 I finished a technical degree in Systems Development in June 2026, and I'm studying Information Systems at FGP. I work with C#, C++, HTML and CSS.
 
@@ -50,7 +50,7 @@ Write to me. I answer in English, in writing.
 
 <br>
 
-Desenvolvedor júnior. Procuro meu primeiro emprego como dev, remoto, com time de fora.
+Desenvolvedor júnior. Procuro meu primeiro emprego como dev, remoto.
 
 Terminei o técnico em Desenvolvimento de Sistemas em junho de 2026 e curso Sistemas de Informação na FGP. Trabalho com C#, C++, HTML e CSS.
 
